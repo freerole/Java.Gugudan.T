@@ -7,7 +7,6 @@ public class Gugudan {
 //		System.out.println("출력할 구구단은?");
 //		Scanner scanner = new Scanner(System.in);
 //		int number = scanner.nextInt();
-//		
 //		System.out.println(number * 1);
 //		System.out.println(number * 2);
 //		System.out.println(number * 3);
